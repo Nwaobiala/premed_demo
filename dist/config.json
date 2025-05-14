@@ -1,0 +1,8 @@
+{
+    "client_id": "2dv8t1e9ebv0duu73pd0pfi0f3",
+    "scope": "email+openid+phone",
+    "response_type": "code",
+    "redirect_uri": "http://localhost:5500/user.html",
+    "issuer_url": "https://eu-north-1qtbzqreqh.auth.eu-north-1.amazoncognito.com"
+   
+}
