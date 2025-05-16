@@ -39,4 +39,6 @@ interface Config {
   response_type: string;
   scope: string;
   redirect_uri: string;
+  userpool_url: string;
+  client_secret: string;
 }

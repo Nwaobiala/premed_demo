@@ -1,8 +1,9 @@
 {
-    "client_id": "2dv8t1e9ebv0duu73pd0pfi0f3",
-    "scope": "email+openid+phone",
+    "client_id": "6pchid7et90uc061eo5sk9ovdj",
+    "scope": "email+openid",
     "response_type": "code",
     "redirect_uri": "http://localhost:5500/user.html",
-    "issuer_url": "https://eu-north-1qtbzqreqh.auth.eu-north-1.amazoncognito.com"
+    "issuer_url": "https://eu-north-1tcqmhdyj8.auth.eu-north-1.amazoncognito.com",
+    "client_secret": "p538f2c2kd7u8ksr9788pnlgtgridremhg1aqr4gi944oks7r7n"
    
 }
